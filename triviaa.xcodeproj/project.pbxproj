@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		6C653FAA2E018287003D9530 /* Exceptions for "triviaa" folder in "triviaa" target */ = {
+		6C653FDE2E018309003D9530 /* Exceptions for "triviaa" folder in "triviaa" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		6C653F9A2E018285003D9530 /* triviaa */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				6C653FAA2E018287003D9530 /* Exceptions for "triviaa" folder in "triviaa" target */,
+				6C653FDE2E018309003D9530 /* Exceptions for "triviaa" folder in "triviaa" target */,
 			);
 			path = triviaa;
 			sourceTree = "<group>";

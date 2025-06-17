@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": 9,
+      "name": "General",
+      "image": "⁉️"
+    },
+    {
+      "id": 10,
+      "name": "Books",
+      "image": "📚"
+    },
+    {
+      "id": 11,
+      "name": "Film",
+      "image": "🎞"
+    },
+    {
+      "id": 12,
+      "name": "Music",
+      "image": "🎶"
+    },
+    {
+      "id": 14,
+      "name": "Television",
+      "image": "📺"
+    },
+    {
+      "id": 15,
+      "name": "Video Games",
+      "image": "🕹"
+    },
+    {
+      "id": 17,
+      "name": "Science & Nature",
+      "image": "🔬"
+    },
+    {
+      "id": 18,
+      "name": "Computers",
+      "image": "💻"
+    },
+    {
+      "id": 21,
+      "name": "Sports",
+      "image": "🏀"
+    },
+    {
+      "id": 22,
+      "name": "Geography",
+      "image": "🌎"
+    },
+    {
+      "id": 23,
+      "name": "History",
+      "image": "📜"
+    },
+    {
+      "id": 32,
+      "name": "Cartoon & Animations",
+      "image": "🐥"
+    }
+  ]
+}
