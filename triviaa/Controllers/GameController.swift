@@ -1,9 +1,4 @@
-//
-//  GameController.swift
-//  Trivia
-//
-//  Created by Stephen Walton on 10/11/22.
-//
+//  Triviaa
 
 import Foundation
 import Network

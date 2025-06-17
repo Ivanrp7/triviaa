@@ -1,9 +1,4 @@
-//
-//  ViewHelpers.swift
-//  Trivia
-//
-//  Created by Stephen Walton on 11/11/22.
-//
+//  Triviaa
 
 import UIKit
 

@@ -1,9 +1,4 @@
-//
-//  SpinnerViewController.swift
-//  Trivia
-//
-//  Created by Stephen Walton on 11/17/22.
-//
+//  Triviaa
 
 import UIKit
 
